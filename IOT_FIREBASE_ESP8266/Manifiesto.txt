@@ -1,0 +1,22 @@
+RECURSOS:
+
+INSTALACIÓN DE TARJETA Y CONFIGURACIÓN DE FIREBASE: 
+https://www.youtube.com/watch?v=w_up-YSUeBI&index=2&list=PLZHVfZzF2DYID9jGK8EpcMni-U2CSTrw3
+
+FLASHEAR ESP8266:
+https://www.youtube.com/watch?v=p_LCKOazo8A&list=FL0PKXjlOhoyzaQFqdFjZrTA&index=2&t=109s
+
+EJEMPLO Y USO DE SOFTSERIAL:
+http://panamahitek.com/conecta-arduino-mundo-esp8266/
+
+URL PARA TARJETAS:
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+ERROR AL DESCARGAR DESDE URL:
+-Borrar carpeta Arduino15 ubicada en (C:\Users\César\AppData\Local)
+
+
+ERRORES AL COMPILAR O SUBIR EL PROYECTO AL ESP8266:
+- Las librerías están mal
+- La velocidad de subida está mal colocada
+- Asegurarse de que el ATMEGA está fuera del Arduino
